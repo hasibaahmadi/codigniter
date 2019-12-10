@@ -1,0 +1,79 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}	
+body {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size: 13px; color: #333; }
+.wrapperbanner{
+	width:100%;
+	height:200px;
+	background-color:#90a6ff;
+}
+.main{
+
+	border:1px solid #eaeaf4;
+    border-top:none;
+    min-height:500px;
+    margin:5px;	
+}
+.successmsg{
+    height:40px;
+    border:1px solid #eaeaf4;
+    border-radius:5px;
+    padding-top:10px;
+    padding-left:5px;
+
+}
+
+.wrapperfooter{
+	width:100%;
+	height:100px;
+	background-color:#90a6ff;
+}
+.tr1{
+    margin:10px;
+}
+.deleteIcon{
+    color:#ff0000;
+    font:10px;
+}
+.editIcon{
+    color:#27c218;
+    font:10px;
+}
+.contact{
+
+    min-height:400px;
+    padding:10px;
+}
+.login{
+    height:250px;
+    width:400px;
+    margin:auto;
+}
+.logoutnav{
+    width:100%;
+    height:40px;
+    background-color:#e4e9f0;
+    border-bottom:1px inset #eaeaf4;
+
+}
+.logoutinnernav{
+    width:970px;
+    margin:auto;
+}
+.logoutmenu{
+    padding-top:10px;
+}
+.footer{
+    width:970px;
+    margin:auto;
+    padding-top:30px;
+    text-align:center;
+}
+.commandbtn,.commandbtn a{
+    font-size:10px;
+    padding:3px;
+    width:80px;
+    color:#ffffff;
+}
+.commandbtn a:hover{
+    text-decoration:none;
+
+}
